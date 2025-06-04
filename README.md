@@ -1,5 +1,4 @@
 Comparison of Region Based on Sales
-Project_02
 
 DESCRIPTION
 The director of a leading organization wants to compare the sales between two regions. He has 
